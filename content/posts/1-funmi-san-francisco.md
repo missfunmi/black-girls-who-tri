@@ -4,7 +4,7 @@ date: 2018-08-07
 featured_image: "/images/1-funmi-featured.jpg"
 tags: [ "san-francisco", "interviews", "beginner" ]
 categories: [ "Interviews" ]
-draft: true
+draft: false
 ---
 Funmi, 29, is originally from Lagos, Nigeria and works as a software developer, splitting her time between New York and San Francisco. She has completed 3 triathlons so far, and is currently training for her first [Ironman 70.3](http://www.ironman.com/triathlon/events/americas/ironman-70.3/cozumel.aspx) this summer.
 <!--more-->
