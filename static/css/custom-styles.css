@@ -46,17 +46,3 @@ div.pa3.pa4-ns.w-100.w-70-ns.center h1.flex-none {
   color: #fff;
   font-size: 1.1rem;
 }
-
-/* div.pa3.pa4-ns.w-100.w-70-ns.center {
-  max-width: 84rem;
-} */
-
-/* TODO: Remove */
-@font-face {
-  font-family: 'karlaregular';
-  src: url('../fonts/Karla/karla-regular-webfont.woff2') format('woff2'),
-       url('../fonts/Karla/karla-regular-webfont.woff') format('woff'),
-       url('../fonts/Karla/Karla-Regular.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
