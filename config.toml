@@ -1,7 +1,7 @@
 title = "Black Girls Who Tri(athlon)"
 baseURL = "/"
 languageCode = "en-us"
-theme = "ananke-modified"
+theme = "gohugo-theme-ananke"
 disqusShortname = "blackgirlswhotri"
 enableRobotsTXT = true
 
