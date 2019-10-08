@@ -5,7 +5,7 @@ description: ""
 draft: true
 tags: [ ]
 categories: [ ]
-featured_image: ""
+image: ""
 ---
 Summary text.
 <!--more-->

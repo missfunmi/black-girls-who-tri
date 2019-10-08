@@ -1,13 +1,15 @@
 ---
-title: "#1. Funmi - San Francisco, CA"
-date: 2018-08-07
-featured_image: "/images/1-funmi-featured.jpg"
+title: "#1. Funmi - New York, NY"
+date: 2019-10-06
+showthedate: true
+image: "1-funmi-new-york.jpg"
 tags: [ "san-francisco", "interviews", "beginner" ]
 categories: [ "Interviews" ]
 draft: false
 ---
-Funmi, 29, is originally from Lagos, Nigeria and works as a software developer, splitting her time between New York and San Francisco. She has completed 3 triathlons so far, and is currently training for her first [Ironman 70.3](http://www.ironman.com/triathlon/events/americas/ironman-70.3/cozumel.aspx) this summer.
+Funmi, 31, is originally from Lagos, Nigeria and works as a software developer in New York.
 <!--more-->
+She has completed 3 triathlons so far, and is currently training for her first [Ironman 70.3](http://www.ironman.com/triathlon/events/americas/ironman-70.3/cozumel.aspx) this summer.
 
 ## When and where was your first triathlon?
 My first triathlon was the [Chicago SuperSprint](https://www.chicagotriathlon.com/race/supersprint/) in August 2017. It’s a really short race, about half the distance of a [sprint](https://totaltriathlon.com/triathlon-distances) -- I swam 400 yards, biked 6.2 miles, and ran 1.5 miles. It’s an easy, beginner race, and I highly recommend it for anyone curious about the sport. Plus, Chicago is great in the summer!

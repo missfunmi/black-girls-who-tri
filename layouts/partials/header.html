@@ -1,0 +1,15 @@
+<header class = 'nav' >
+  <nav class = 'nav-menu'>
+    <a href='{{ absURL "" }}' class = 'nav-brand nav_item'>
+      <div class="nav-logo" style="text-align:center;">
+        <img src="{{ .Site.Params.featured_image }}" alt="image from {{ .Site.Title }}" style="width: 50%; margin-bottom:">
+      </div>
+    </a>
+    <div class = 'nav_bar-wrap'>
+      <div class = 'nav_bar'></div>
+    </div>
+  </nav>
+  {{ range .Site.Params.custom_css }}
+    <link rel="stylesheet" href="{{ $.Site.BaseURL }}{{ . }}">
+  {{ end }}
+</header>
