@@ -46,3 +46,10 @@ div.pa3.pa4-ns.w-100.w-70-ns.center h1.flex-none {
   color: #fff;
   font-size: 1.1rem;
 }
+
+/* Change default style for header link */
+div.tc-l.pv4.pv6-l.ph3.ph4-ns a,
+h1.f2.f-subheadline-l.fw2.lh-title a {
+  color: inherit;
+  text-decoration: inherit;
+}
