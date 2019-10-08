@@ -1,0 +1,19 @@
+.nav-logo {
+  text-align: center;
+}
+.nav-logo img {
+  width: 50%;
+}
+main {
+  margin-top: 10%;
+}
+.post_next {
+  text-transform: lowercase;
+  color: #00adb5;
+}
+.footer a {
+  color: #00adb5;
+}
+.post_body .copy {
+  display: none;
+}

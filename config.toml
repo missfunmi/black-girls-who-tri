@@ -1,17 +1,21 @@
 title = "Black Girls Who Tri(athlon)"
 baseURL = "/"
 languageCode = "en-us"
-theme = "gohugo-theme-ananke"
+theme = "newsroom"
 disqusShortname = "blackgirlswhotri"
 enableRobotsTXT = true
+copyright = "Copyright © 2019, Black Girls Who Tri. All rights reserved."
+canonifyurls = true
+paginate = 8
 
 [params]
-  custom_css = [ "css/custom-styles.css" ]
   favicon = ""
+  showthedate = false
   description = "A community for and collection of stories of black women triathloning everywhere."
   twitter = "https://twitter.com/blackgirlswho3i"
   instagram = "https://instagram.com/blackgirlswhotri"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  featured_image = "/images/_logo.png"
+  custom_css = ["css/custom-newsroom-styles.css"]
   recent_posts_number = 2
   show_reading_time = true
   google_fonts = "https://fonts.googleapis.com/css?family=Karla"
