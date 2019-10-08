@@ -1,4 +1,21 @@
+title = "Black Girls Who Tri(athlon)"
 baseURL = "/"
 languageCode = "en-us"
-title = "Black Girls Who Tri"
-theme = "ananke"
+theme = "gohugo-theme-ananke"
+disqusShortname = "blackgirlswhotri"
+enableRobotsTXT = true
+
+[params]
+  custom_css = [ "css/custom-styles.css" ]
+  favicon = ""
+  description = "A community for and collection of stories of black women triathloning everywhere."
+  twitter = "https://twitter.com/blackgirlswho3i"
+  instagram = "https://instagram.com/blackgirlswhotri"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  recent_posts_number = 2
+  show_reading_time = true
+  google_fonts = "https://fonts.googleapis.com/css?family=Karla"
+  read_more_copy = "Continue reading..."
+
+[frontmatter]
+  date = ["myDate", ":default"]

@@ -1,0 +1,55 @@
+/* Force Karla font throughout the site */
+body, p, div, h1, h2, h3, h4, h5, div, span, a, header, section {
+  font-family: 'Karla', sans-serif !important;
+}
+
+/* Hide duplicate blog title at top of page */
+a.f3.fw2 {
+  display: none;
+}
+
+/* Reduce size of blog title in footer */
+a.f4.fw4 {
+  font-size: 0.8rem;
+}
+
+/* Change style of "read more" text on home page */
+a.ba.f7.b--moon-gray {
+  font-style: italic;
+  background-color: transparent;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  padding-left: 0;
+}
+
+a.ba.f7.b--moon-gray::first-letter {
+  text-transform: uppercase;
+}
+
+/* Add a subtitle below each post on home page */
+.section-subtitle {
+  font-size: .875rem;
+  margin-bottom: 0;
+  letter-spacing: .1em;
+  display: inline-block;
+  color: #333333bf;
+}
+
+/* Hide the "Recent Posts" heading on the home page */
+div.pa3.pa4-ns.w-100.w-70-ns.center h1.flex-none {
+  display: none;
+}
+
+/* Add site description to home page */
+.site-description {
+  color: #fff;
+  font-size: 1.1rem;
+}
+
+/* Change default style for header link */
+div.tc-l.pv4.pv6-l.ph3.ph4-ns a,
+h1.f2.f-subheadline-l.fw2.lh-title a {
+  color: inherit;
+  text-decoration: inherit;
+}
